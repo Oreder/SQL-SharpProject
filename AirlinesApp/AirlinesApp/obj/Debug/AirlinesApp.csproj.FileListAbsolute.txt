@@ -1,0 +1,12 @@
+D:\Database\AirlinesApp\AirlinesApp\bin\Debug\AirlinesApp.exe.config
+D:\Database\AirlinesApp\AirlinesApp\bin\Debug\AirlinesApp.exe
+D:\Database\AirlinesApp\AirlinesApp\bin\Debug\AirlinesApp.pdb
+D:\Database\AirlinesApp\AirlinesApp\obj\Debug\AirlinesApp.csprojResolveAssemblyReference.cache
+D:\Database\AirlinesApp\AirlinesApp\obj\Debug\AirlinesApp.Properties.Resources.resources
+D:\Database\AirlinesApp\AirlinesApp\obj\Debug\AirlinesApp.csproj.GenerateResource.Cache
+D:\Database\AirlinesApp\AirlinesApp\obj\Debug\AirlinesApp.exe
+D:\Database\AirlinesApp\AirlinesApp\obj\Debug\AirlinesApp.pdb
+D:\Database\AirlinesApp\AirlinesApp\obj\Debug\AirlinesApp.ChildForms.AirlineForm.resources
+D:\Database\AirlinesApp\AirlinesApp\obj\Debug\AirlinesApp.ChildForms.AirplaneForm.resources
+D:\Database\AirlinesApp\AirlinesApp\obj\Debug\AirlinesApp.AppForm.resources
+D:\Database\AirlinesApp\AirlinesApp\bin\Debug\Airlines.mdf
